@@ -6,5 +6,5 @@ To run this project,
 - Install the libraries listed in the requirements.txt files
 - Run the bash command **python3 fd.py**
 - After the successful run, it will pop up the plot
-- Then it will save the result as **'fraud_detection_results.csv'** name
+- Then it will save the result as **'fraud_detection_results.csv'**
 - All files need to be in the same directory 
