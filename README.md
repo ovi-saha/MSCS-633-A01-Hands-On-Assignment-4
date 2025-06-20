@@ -2,7 +2,7 @@
 This Repo is a hands-on assignment 4 for Advanced Artificial Intelligence (MSCS-633-A01)
 ## How to Run
 To run this project,
-- Download **fd.py**, and for the kaggle dataset API token, download **kaggle.json** (for the dataset API, how to set up can be found in this link - https://www.kaggle.com/datasets/whenamancodes/fraud-detection)
+- Download **fd.py**, and for the kaggle dataset API token, download **kaggle.json** (for the kaggle public API authentication the instruction  can be found here - https://www.kaggle.com/docs/api#authentication)
 - Install the libraries listed in the requirements.txt files
 - Run the bash command **python3 fd.py**
 - After the successful run, it will pop up the plot
